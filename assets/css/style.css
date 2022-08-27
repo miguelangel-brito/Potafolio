@@ -1,0 +1,15 @@
+.hello{
+    text-align: left;
+}
+.section1{
+    height: 0em;
+    padding: 8em;
+    font-size: 2em;color: rgb(249, 250, 249);
+    background-image: url("../img/Img_portapolio-2.jpg");
+    background-size:cover;
+    background-position: center;
+}
+a:link{
+    
+    text-decoration: none;
+}
